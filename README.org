@@ -1,0 +1,20 @@
+
+* Spinner
+
+** Running Spinner
+
+#+begin_src
+% clojure -M:runner
+#+end_src
+
+
+** Running Spinner with one of the other spinners
+
+#+begin_src
+% clojure -M:runner -s dots
+#+end_src
+
+
+** Available spinners
+
+               strokes, balls, dqpb, braille, kit, lpg, tone-bar, clock, more-clock, moon, grow-vertical, grow-horizontal, balloon, pipe, flip, star, star2, triangle, hamburger, simple-dots, simple-dots-scrolling, dots, dots02, dots03, dots04, dots05, dots06, dots07, dots08, dots09, dots10, dots11, dots12, arrow, dots-single, dots-triple, dots-quad, dots-bounce, dots-strobe, dots-1-snake, dots-2-snake, dots-box-strobe, dots-box-splat, dots-fall, test, bouncing-ball, bouncing-bar, monkey, arc, layer
